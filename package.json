@@ -1,0 +1,26 @@
+{
+  "name": "ninja-quiz",
+  "version": "1.0.0",
+  "description": "A helpful quiz application for testing individuals knowledge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshodwiut/ninja-quiz.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "nodejs",
+    "json"
+  ],
+  "author": "dilshodwiut",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dilshodwiut/ninja-quiz/issues"
+  },
+  "homepage": "https://github.com/dilshodwiut/ninja-quiz#readme"
+}
