@@ -34,6 +34,9 @@ body {
   text-align: center;
   font-size: 1.5rem;
   background-color: #efefef;
+}
+
+.notifier {
   color: #444;
 }
 
@@ -41,8 +44,7 @@ body {
   color: red;
 }
 
-#score,
-#percentage {
+#score {
   color: var(--main-color);
   font-size: 3rem;
 }
@@ -53,10 +55,7 @@ body {
   color: #fff;
 }
 
-.header {
-  padding: 1rem 0;
-}
-
+.header,
 .test {
   padding: 1rem 0;
 }
